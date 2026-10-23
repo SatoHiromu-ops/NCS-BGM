@@ -1324,7 +1324,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 0.31083637, y: -0.19790865, z: 0.004500015}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: 0.31083637, y: -0.19790865, z: 0.004500015}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1376,7 +1376,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 9.55
     speed: 2
-    m_Value: 10
+    m_Value: 9.55
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1452,11 +1452,11 @@ MonoBehaviour:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs:
-      - m_Data: 75612
+      - m_Data: -59238
       m_LastClickedID:
-        m_Data: 75612
+        m_Data: -59238
       m_ExpandedIDs:
-      - m_Data: -59586
+      - m_Data: -59228
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1646,19 +1646,19 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\NCS BGM
+  m_LastProjectPath: C:\Users\student\Documents\NCS-BGM\NCS BGM
   m_LockTracker:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 1
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
     m_SelectedIDs:
-    - m_Data: 66048
+    - m_Data: 66060
     m_LastClickedID:
-      m_Data: 66048
+      m_Data: 66060
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 66048
+    - m_Data: 66060
     - m_Data: 1000000000
     - m_Data: 2147483647
     m_RenameOverlay:
@@ -1719,8 +1719,8 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
     m_SelectedInstanceIDs:
-    - m_Data: 75612
-    m_LastClickedInstanceID: 75612
+    - m_Data: -59238
+    m_LastClickedInstanceID: -59238
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
